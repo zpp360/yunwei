@@ -1,0 +1,529 @@
+1533710601245	geckodriver	INFO	geckodriver 0.21.0
+1533710601253	geckodriver	INFO	Listening on 127.0.0.1:52218
+1533710604313	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.begQ0G6aUvgI"
+1533710606484	Marionette	INFO	Listening on port 52226
+1533710606810	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1533710715999	geckodriver	INFO	geckodriver 0.21.0
+1533710716007	geckodriver	INFO	Listening on 127.0.0.1:52502
+1533710719017	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.WCxnda02qQlu"
+1533710720480	Marionette	INFO	Listening on port 52518
+1533710720864	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+hild 8572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9740, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533711013111	geckodriver	INFO	geckodriver 0.21.0
+1533711013120	geckodriver	INFO	Listening on 127.0.0.1:53029
+1533711016138	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.Ky3pYHutWbiT"
+1533711017569	Marionette	INFO	Listening on port 53041
+1533711017912	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Cconsole.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1533711873334	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://dl.reg.163.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: ({})
+getAppliedProps@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:702:11
+getApplied@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:469:18
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1141:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1761:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:735:7
+console.error: "unknownError"
+console.error: "unknownError"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+ z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533716390485	geckodriver	INFO	geckodriver 0.21.0
+1533716390494	geckodriver	INFO	Listening on 127.0.0.1:62373
+1533716393517	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ewaa2vNqkCDu"
+1533716394828	Marionette	INFO	Listening on port 62387
+1533716395311	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=zpp&json=1&p=3&sid=1423_26964_21096_26350_22157&req=2&csor=3&pwd=zp&cb=jQuery110206107495121468995_1533716395812&_=1533716395816, line 1: TypeError: jQuery110206107495121468995_1533716395812 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=zp&json=1&p=3&sid=1423_26964_21096_26350_22157&req=2&csor=2&pwd=z&cb=jQuery110206107495121468995_1533716395812&_=1533716395815, line 1: TypeError: jQuery110206107495121468995_1533716395812 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=z&json=1&p=3&sid=1423_26964_21096_26350_22157&req=2&csor=1&cb=jQuery110206107495121468995_1533716395812&_=1533716395814, line 1: TypeError: jQuery110206107495121468995_1533716395812 is not a function
+[Child 4460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10364, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4264, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533716716591	geckodriver	INFO	geckodriver 0.21.0
+1533716716598	geckodriver	INFO	Listening on 127.0.0.1:63528
+1533716719626	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.vqxi3PxXNKKH"
+1533716721058	Marionette	INFO	Listening on port 63540
+1533716721478	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://dl.reg.163.com/src/mp-agent-finger.html?WEBZJVersion=1533550742204&pkid=fjWGUOS&product=mail163, line 360: unreachable code after return statement
+JavaScript warning: https://dl.reg.163.com/src/mp-agent-finger.html?WEBZJVersion=1533550742204&pkid=fjWGUOS&product=mail163, line 360: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533716905687	geckodriver	INFO	geckodriver 0.21.0
+1533716905695	geckodriver	INFO	Listening on 127.0.0.1:64162
+1533716908728	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.X0mQbwJ65oaJ"
+1533716910038	Marionette	INFO	Listening on port 64176
+1533716910430	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://dl.reg.163.com/src/mp-agent-finger.html?WEBZJVersion=1533550742204&pkid=fjWGUOS&product=mail163, line 360: unreachable code after return statement
+JavaScript warning: https://dl.reg.163.com/src/mp-agent-finger.html?WEBZJVersion=1533550742204&pkid=fjWGUOS&product=mail163, line 360: unreachable code after return statement
+JavaScript warning: https://dl.reg.163.com/src/mp-agent-finger.html?WEBZJVersion=1533550742204&pkid=fjWGUOS&product=mail163, line 360: unreachable code after return statement
+JavaScript warning: https://dl.reg.163.com/src/mp-agent-finger.html?WEBZJVersion=1533550742204&pkid=fjWGUOS&product=mail163, line 360: unreachable code after return statement
+[Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1533717059676	geckodriver	INFO	geckodriver 0.21.0
+1533717059684	geckodriver	INFO	Listening on 127.0.0.1:64494
+1533717062737	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.DFOzzwPyriA7"
+1533717064156	Marionette	INFO	Listening on port 64507
+1533717064521	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.shuhengcare.com
+console.error: "TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11\nonMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37\nemit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29\nWalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7\n"
+TypeError: currentNode is undefined: canMutationImpactCurrentStyles@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:64:11
+onMutations@resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/shared/style-change-tracker.js:82:11
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:178:37
+emit@resource://devtools/shared/base-loader.js -> resource://devtools/shared/event-emitter.js:255:29
+WalkerFront<.getMutations</<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/fronts/inspector.js:420:7
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533717089997	geckodriver	INFO	geckodriver 0.21.0
+1533717090005	geckodriver	INFO	Listening on 127.0.0.1:64586
+1533717093028	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.gGxTmbjYM0l3"
+1533717094416	Marionette	INFO	Listening on port 64598
+1533717094860	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10084, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533717187803	geckodriver	INFO	geckodriver 0.21.0
+1533717187812	geckodriver	INFO	Listening on 127.0.0.1:64793
+1533717190821	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.nVxcXJY9XYpX"
+1533717192151	Marionette	INFO	Listening on port 64806
+1533717192536	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533717286274	geckodriver	INFO	geckodriver 0.21.0
+1533717286282	geckodriver	INFO	Listening on 127.0.0.1:65025
+1533717289336	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.t23CP3UcgzEo"
+1533717291853	Marionette	INFO	Listening on port 65038
+1533717292331	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransa1533717338919	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ECL7fI3CUs00"
+1533717340249	Marionette	INFO	Listening on port 65175
+1533717340718	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1533717375757	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dd2cksGtsFpD"
+1533717377065	Marionette	INFO	Listening on port 65285
+1533717377475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 611533717421255	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.FaN0LuP799Ok"
+1533717422547	Marionette	INFO	Listening on port 65420
+1533717422989	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom1533717446372	Marionette	INFO	Listening on port 65512
+1533717446593	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+gcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+1533717929977	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 10688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1533812557177	geckodriver	INFO	geckodriver 0.21.0
+1533812557200	geckodriver	INFO	Listening on 127.0.0.1:59468
+1533812560191	mozrunner::runner	INFO	Running command: "D:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.4Ik3qny6xN2a"
+1533812562511	Marionette	INFO	Listening on port 59477
+1533812562570	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.shuhengcare.com/SHYL/static/js/bootstrap.min.js, line 79: TypeError: $(...).on is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 45: ReferenceError: $body is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/ajs/cloud.js, line 33: ReferenceError: $cloud1 is not defined
+JavaScript error: https://www.shuhengcare.com/SHYL/static/login/js/templatemo_script.js, line 71: TypeError: $(...).singlePageNav is not a function
+JavaScript error: https://www.shuhengcare.com/SHYL/syslogin, line 1: ReferenceError: trim is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11876, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

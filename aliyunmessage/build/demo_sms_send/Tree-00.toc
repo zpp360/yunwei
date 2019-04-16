@@ -1,0 +1,7 @@
+('d:\\python34\\lib\\site-packages\\aliyun_python_sdk_core_v3-2.11.0-py3.4.egg',
+ None,
+ {'*.pyc', '*.pyd', '*.py', 'EGG-INFO', '*.pyw'},
+ 'DATA',
+ [('aliyunsdkcore\\endpoint\\endpoints.json',
+   'd:\\python34\\lib\\site-packages\\aliyun_python_sdk_core_v3-2.11.0-py3.4.egg\\aliyunsdkcore\\endpoint\\endpoints.json',
+   'DATA')])
