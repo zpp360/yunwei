@@ -1,6 +1,6 @@
 # coding = utf-8
 import pymysql
-class mysqldb:
+class my_db:
     def __init__(self,host,user,passwd,db,port,charset):
         self.host = host
         self.user = user
@@ -10,7 +10,7 @@ class mysqldb:
         self.charset = charset
 
     def get_connection(self):
-        conn = pymysql.connect(host=self.host, user=self.user, passwd=self.password, db=self.db, port=self.port, charset=self.charset)
+        conn = pymysql.connect(host=self.host, user=self.user, passwd=self.passwd, db=self.db, port=self.port, charset=self.charset)
         return conn
 
     def get_cursor(self,conn):
