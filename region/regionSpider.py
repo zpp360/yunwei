@@ -29,10 +29,20 @@ class regionSpider:
             "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9) Gecko/20080705 Firefox/3.0 Kapiko/3.0",
             "Mozilla/5.0 (X11; Linux i686; U;) Gecko/20070322 Kazehakase/0.4.5"
         ]
+        # 我现在现在把几个代理放进一个 列表随机取用！
+        proxy_list = [
+            {"HTTP": "110.52.235.2:9999"},
+            {"HTTP": "183.148.135.58:9999"},
+            {"HTTP": "121.13.252.58:41564"},
+            {"HTTP": "163.204.245.13:9999"},
+            {"HTTP": "116.209.52.170:9999"}
+        ]
         try:
             user_agent = random.choice(USER_AGENTS)
+            proxy = random.choice(proxy_list)
+            proxy_handler = urllib.request.ProxyHandler(proxy)
             headers = ('User-Agent', user_agent)
-            opener = urllib.request.build_opener()
+            opener = urllib.request.build_opener(proxy_handler)
             opener.addheaders = [headers]
             page = opener.open(url,timeout=10)
             html = page.read().decode(encoding='gb2312', errors='ignore')
@@ -86,7 +96,7 @@ class regionSpider:
                         reg.name = atag.find('a').text
                     else:
                         reg.code = atag.find('a').text
-            if reg.name != '市辖区':
+            if reg.name != None and reg.name!='':
                 county_dict[reg.code] = reg
         return county_dict
 
@@ -166,18 +176,18 @@ for city_code in city_dict.keys():
         county_region = county_dict.get(county_code)
         print(county_region)
         town_dict = spider.getTownNameAndUrl(county_region)
-        # 本次循环获取的街道（乡镇）存入数据库
-        mysql_db.insert_region_dict(town_dict)
         if None!=town_dict:
+            # 本次循环获取的街道（乡镇）存入数据库
+            mysql_db.insert_region_dict(town_dict)
             town_dicts = dict(town_dicts,**town_dict)
             for town_code in town_dict:
                 #循环遍历街道（镇），获取社区（村）
                 print(town_dict.get(town_code))
                 town_region = town_dict.get(town_code)
                 village_dict = spider.getVillageNameAndUrl(town_region)
-                # 本次循环获取的社区（村）存入数据库
-                mysql_db.insert_region_dict(village_dict)
                 if None!=village_dict:
+                    # 本次循环获取的社区（村）存入数据库
+                    mysql_db.insert_region_dict(village_dict)
                     village_dicts = dict(village_dicts,**village_dict)
                     for village_code in village_dict.keys():
                         print(village_dict.get(village_code))

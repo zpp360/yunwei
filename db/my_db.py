@@ -18,22 +18,18 @@ class my_db:
         return cur
 
     def insert_region_dict(self,region_dict):
-        try:
-            conn = self.get_connection()
-            cur = self.get_cursor(conn)
-            insert_sql = "insert into m_region(region_code,region_name,p_code,p_name) values"
-            param = ""
-            for county_code in region_dict.keys():
-                county_region = region_dict.get(county_code)
-                param = param + "('{}','{}','{}','{}'),".format(county_region.code, county_region.name,
-                                                                county_region.parent_code, county_region.parent_name)
-            param = param[0:len(param) - 1] + ""
-            insert_sql = insert_sql + param
-            cur.execute(insert_sql)
-            conn.commit()
-        except Exception:
-            print("插入数据发生异常")
-            conn.rollback()
-        finally:
-            cur.close()
-            conn.close()
+        conn = self.get_connection()
+        cur = self.get_cursor(conn)
+        insert_sql = "insert into m_region_copy(region_code,region_name,p_code,p_name) values"
+        param = ""
+        for county_code in region_dict.keys():
+            county_region = region_dict.get(county_code)
+            param = param + "('{}','{}','{}','{}'),".format(county_region.code, county_region.name, county_region.parent_code, county_region.parent_name)
+        param = param[0:len(param) - 1] + ""
+        insert_sql = insert_sql + param
+        print(insert_sql)
+        cur.execute(insert_sql)
+        conn.commit()
+
+        cur.close()
+        conn.close()
